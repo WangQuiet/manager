@@ -1,2 +1,1 @@
-# manager
-a simple manager with vue mock 
+一个简单的vue2.0+ elementui的项目。
